@@ -1,0 +1,7 @@
+D:\Programing\Programs\C#\FileTransfer\Utils\bin\Debug\Utils.dll
+D:\Programing\Programs\C#\FileTransfer\Utils\bin\Debug\Utils.pdb
+D:\Programing\Programs\C#\FileTransfer\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+D:\Programing\Programs\C#\FileTransfer\Utils\obj\Debug\Utils.dll
+D:\Programing\Programs\C#\FileTransfer\Utils\obj\Debug\Utils.pdb
+D:\Programing\Programs\C#\FileTransfer\Utils\bin\Debug\Newtonsoft.Json.dll
+D:\Programing\Programs\C#\FileTransfer\Utils\bin\Debug\Newtonsoft.Json.xml
